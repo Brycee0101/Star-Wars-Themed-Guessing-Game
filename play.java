@@ -24,7 +24,6 @@ public class play extends javax.swing.JFrame {
         initComponents();
        
         target = random.nextInt(100)+1;
-        jLabel3.setText(Integer.toString(target));  
         
     }
 
