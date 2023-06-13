@@ -5,7 +5,7 @@ This is a simple rendition of a Guessing Game where players can be immersed into
 Bryce Stephen Halnin
 
 ## 🖥️Technologies Used
-<img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><br><br>
 
 ## 🎮 How to Play
 1. Clone the repository to your local system.
